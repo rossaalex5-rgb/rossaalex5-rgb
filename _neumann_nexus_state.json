@@ -1,13 +1,13 @@
 {
     "version": "20.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 2,
-    "letzter_hardware_wert": 78.0,
-    "letzter_sha256": "45b84e4204569055d38fc1236b0e8e04540c9fc1df3c18d258e5610e7780b610",
-    "letzter_sync_status": "SYNC OK @ Takt 2",
+    "gesamte_takte": 5,
+    "letzter_hardware_wert": 77.0,
+    "letzter_sha256": "da66cc8b480f94c2a891c8d7d17635453367d9c223fbc8ab6c7a3b2fcf98e8e5",
+    "letzter_sync_status": "SYNC OK @ Takt 5",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
     "system_status": "STUFE 100 MASTER ORCHESTRIERUNG AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785954409.5709703
+    "letzte_aktualisierung": 1785954470.4942036
 }
