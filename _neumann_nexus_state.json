@@ -1,14 +1,14 @@
 {
-    "version": "27.0",
+    "version": "30.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 74.0,
-    "letzte_temperatur": 34.2,
-    "letzter_sha256": "ba0dbaa45fa38947b36ab990acb8ae27ec4e185e9315a164bfb0c03348972beb",
+    "letzter_hardware_wert": 72.0,
+    "letzte_temperatur": 35.0,
+    "letzter_sha256": "d099289a0eb029165d544959fba7fe55606453ce2c32edf775286c0ec18e9692",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 27 OMNI-NEURAL-MATRIX AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785955069.132781
+    "system_status": "STUFE 30 QUANTUM-SINGULARITY-MATRIX AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785955360.9337351
 }
