@@ -1,0 +1,4 @@
+{"status": "genesis_block_v16_hardened", "takt": 3.47, "timestamp": 1785953780.326099}
+{"takt": 3.47, "takt_nummer": 1, "akku_prozent": 82.0, "akku_temperatur": 35.8, "payload": "Hardened Nexus V16. Akku: 82.0% | Temp: 35.8\u00b0C", "sha256": "e301b87990dedae1762ec21b1e8cb929a7fd885059ff0ea86c15cbc27215a39d", "timestamp": 1785953781.2284114}
+{"takt": 3.47, "takt_nummer": 2, "akku_prozent": 82.0, "akku_temperatur": 35.8, "payload": "Hardened Nexus V16. Akku: 82.0% | Temp: 35.8\u00b0C", "sha256": "b051c1532493563ca473b9fdaafd45a07783fe27e74c9ef0d2cf3bd4fbbab0e3", "timestamp": 1785953795.3028536}
+{"takt": 3.47, "takt_nummer": 3, "akku_prozent": 81.0, "akku_temperatur": 35.7, "payload": "Hardened Nexus V16. Akku: 81.0% | Temp: 35.7\u00b0C", "sha256": "a86e7bb195f49f07f5a813a68cf573268284a2f3b12ba2283ae59ad86aec2582", "timestamp": 1785953803.8270323}

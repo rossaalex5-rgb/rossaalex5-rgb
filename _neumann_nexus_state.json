@@ -1,11 +1,11 @@
 {
-    "version": "15.0",
+    "version": "16.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 15,
+    "gesamte_takte": 2,
     "letzter_hardware_wert": 82.0,
-    "letzter_sha256": "18b5899d3e99d68fbd0861e6e6b8baa3e68b1aa9f02a1b1bbfa187d7dd895977",
-    "nexus_faktor": 15.0,
+    "letzter_sha256": "b051c1532493563ca473b9fdaafd45a07783fe27e74c9ef0d2cf3bd4fbbab0e3",
+    "letzter_sync_status": "SYNC OK @ Takt 2",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 15 ALCHEMIE REINIGUNG AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785953740.054707
+    "system_status": "STUFE 16 GEH\u00c4RTET AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785953799.559084
 }
