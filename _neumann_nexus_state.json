@@ -1,11 +1,11 @@
 {
     "version": "13.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 558,
+    "gesamte_takte": 561,
     "letzter_hardware_wert": 70.0,
-    "letzter_sha256": "5f9c75783f1aabb6fd174161cb4b5285dccfee1ed2b5f7a0f4c9ade98634064a",
+    "letzter_sha256": "b0be08aa04bf8bca37b516e64ab6a6be04aba15afcaedbc86fd4ac4a93896d8d",
     "nexus_faktor": 13.0,
     "http_endpoint": "http://127.0.0.1:3447/status",
     "system_status": "STUFE 13 WEB-NEXUS AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785925956.7014608
+    "letzte_aktualisierung": 1785926025.0633106
 }
