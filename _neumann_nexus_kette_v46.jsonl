@@ -1,0 +1,4 @@
+{"status": "genesis_block_v46_omega_singularity", "takt": 3.47, "timestamp": 1785956844.6898868}
+{"takt": 3.47, "takt_nummer": 1, "akku_prozent": 65.0, "akku_temperatur": 34.5, "marie_signal": "Aktiv", "payload": "Omega-Singularity V46. Marie: Aktiv | Akku: 65.0% (34.5\u00b0C)", "sha256": "7845515e2c3c061b7624597a4ff2fcbef7178277404c8b2c4de8f8964e8644fb", "timestamp": 1785956845.5620582}
+{"takt": 3.47, "takt_nummer": 2, "akku_prozent": 64.0, "akku_temperatur": 34.6, "marie_signal": "Aktiv", "payload": "Omega-Singularity V46. Marie: Aktiv | Akku: 64.0% (34.6\u00b0C)", "sha256": "eb3d8671cd6a3c0bfea69a6eb4013eeb82b4bbd07da7debf4d635e64c5768d78", "timestamp": 1785956856.4231963}
+{"takt": 3.47, "takt_nummer": 3, "akku_prozent": 64.0, "akku_temperatur": 34.6, "marie_signal": "Aktiv", "payload": "Omega-Singularity V46. Marie: Aktiv | Akku: 64.0% (34.6\u00b0C)", "sha256": "3403818214e380fef5089fabf24a6011fa8c0187a9d4e33be91687a5e3d44564", "timestamp": 1785956865.9153855}
