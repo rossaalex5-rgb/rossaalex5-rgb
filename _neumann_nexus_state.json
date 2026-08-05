@@ -1,14 +1,14 @@
 {
-    "version": "41.0",
+    "version": "43.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 68.0,
-    "letzte_temperatur": 35.0,
-    "letzter_sha256": "a38944dd6719ec5947d97bee9f463c2d7d46094d5f955a41946979a5dba3289c",
+    "letzter_hardware_wert": 67.0,
+    "letzte_temperatur": 34.9,
+    "letzter_sha256": "1ed1780cb148ab9a0d185a8ff84c4e0bb40485e0c800f60524c08e74c1956848",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 41 HYPER-SINGULARITY-MATRIX AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785956142.591248
+    "system_status": "STUFE 43 ZENITH-SINGULARITY-MATRIX AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785956320.3717172
 }
