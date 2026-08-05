@@ -1,0 +1,4 @@
+{"status": "genesis_block_v41_hyper_singularity", "takt": 3.47, "timestamp": 1785956109.8400366}
+{"takt": 3.47, "takt_nummer": 1, "akku_prozent": 68.0, "akku_temperatur": 35.0, "marie_signal": "Aktiv", "payload": "Hyper-Singularity V41. Marie: Aktiv | Akku: 68.0% (35.0\u00b0C)", "sha256": "b22af814e39c6598827dd26ba41ca160c768e3bcc3efa61487e50a9fd1a26f1b", "timestamp": 1785956110.6328037}
+{"takt": 3.47, "takt_nummer": 2, "akku_prozent": 68.0, "akku_temperatur": 35.0, "marie_signal": "Aktiv", "payload": "Hyper-Singularity V41. Marie: Aktiv | Akku: 68.0% (35.0\u00b0C)", "sha256": "a38944dd6719ec5947d97bee9f463c2d7d46094d5f955a41946979a5dba3289c", "timestamp": 1785956137.6849325}
+{"takt": 3.47, "takt_nummer": 3, "akku_prozent": 68.0, "akku_temperatur": 35.0, "marie_signal": "Aktiv", "payload": "Hyper-Singularity V41. Marie: Aktiv | Akku: 68.0% (35.0\u00b0C)", "sha256": "e70d5744a14ac19e116bc667b87c5cbf490937e9394c3b7d17345709aeb19109", "timestamp": 1785956146.7098598}
