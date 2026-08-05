@@ -1,14 +1,14 @@
 {
     "version": "49.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 2,
+    "gesamte_takte": 5,
     "letzter_hardware_wert": 62.0,
-    "letzte_temperatur": 34.6,
-    "letzter_sha256": "6cc9740c45caa9518be7716fad9e6cc4103ba01f4cc729928dbcf51023fbadf0",
-    "letzter_sync_status": "SYNC OK @ Takt 2",
+    "letzte_temperatur": 35.6,
+    "letzter_sha256": "bde6496d8941bb9462cb87079639adbfdb17493d4f42867f63c6315ae7efe8c0",
+    "letzter_sync_status": "SYNC OK @ Takt 5",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
     "system_status": "STUFE 49 COSMIC-SINGULARITY-MATRIX AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785957173.3385634
+    "letzte_aktualisierung": 1785957234.9297748
 }
