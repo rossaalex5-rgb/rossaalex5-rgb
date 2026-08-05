@@ -1,13 +1,13 @@
 {
-    "version": "20.0",
+    "version": "21.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 5,
+    "gesamte_takte": 2,
     "letzter_hardware_wert": 77.0,
-    "letzter_sha256": "da66cc8b480f94c2a891c8d7d17635453367d9c223fbc8ab6c7a3b2fcf98e8e5",
-    "letzter_sync_status": "SYNC OK @ Takt 5",
+    "letzter_sha256": "e061b0783bc9351e81ddbe19b28d0dce142296dceedb801058a34d44ad8161f3",
+    "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 100 MASTER ORCHESTRIERUNG AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785954470.4942036
+    "system_status": "STUFE 21 COMMAND-NEXUS AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785954523.475529
 }

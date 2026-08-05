@@ -1,0 +1,4 @@
+{"status": "genesis_block_v21_command", "takt": 3.47, "timestamp": 1785954508.3440719}
+{"takt": 3.47, "takt_nummer": 1, "akku_prozent": 77.0, "akku_temperatur": 35.6, "marie_signal": "Aktiv", "payload": "Command Nexus V21. Marie: Aktiv | Akku: 77.0%", "sha256": "4ff87f28aa5dd617522b6cd166fe9b3cb8085009bd0d9cb99b957eda6cb77839", "timestamp": 1785954509.234551}
+{"takt": 3.47, "takt_nummer": 2, "akku_prozent": 77.0, "akku_temperatur": 35.6, "marie_signal": "Aktiv", "payload": "Command Nexus V21. Marie: Aktiv | Akku: 77.0%", "sha256": "e061b0783bc9351e81ddbe19b28d0dce142296dceedb801058a34d44ad8161f3", "timestamp": 1785954518.8111007}
+{"takt": 3.47, "takt_nummer": 3, "akku_prozent": 77.0, "akku_temperatur": 35.6, "marie_signal": "Aktiv", "payload": "Command Nexus V21. Marie: Aktiv | Akku: 77.0%", "sha256": "699b136cea41263cd44702b6c78c36ba8ef8694e4b6202e785ac50bb68824fbf", "timestamp": 1785954527.8465943}
