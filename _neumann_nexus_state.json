@@ -1,11 +1,11 @@
 {
-    "version": "14.0",
+    "version": "15.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 3,
-    "letzter_hardware_wert": 85.0,
-    "letzter_sha256": "d89cf29446f012a36b84d39de12bd9082b4ac300b8a91727cae470c83bca220c",
-    "nexus_faktor": 14.0,
+    "letzter_hardware_wert": 84.0,
+    "letzter_sha256": "00d20a71050567f24dca06f71fcf9c782c0218cde37be17197443cc6da2bbcf2",
+    "nexus_faktor": 15.0,
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 14 LIVE-DASHBOARD AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785953280.7220242
+    "system_status": "STUFE 15 ALCHEMIE REINIGUNG AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785953438.7141047
 }
