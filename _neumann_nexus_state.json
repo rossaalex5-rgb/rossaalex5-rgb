@@ -1,13 +1,13 @@
 {
-    "version": "21.0",
+    "version": "22.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "letzter_hardware_wert": 77.0,
-    "letzter_sha256": "e061b0783bc9351e81ddbe19b28d0dce142296dceedb801058a34d44ad8161f3",
+    "letzter_sha256": "7567c05b663f19058d938b51c2a264868a3f1becdc9b9a96df269c54e59db85a",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 21 COMMAND-NEXUS AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785954523.475529
+    "system_status": "STUFE 22 QUANTUM NEXUS AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785954584.2317607
 }
