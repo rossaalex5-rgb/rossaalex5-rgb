@@ -1,11 +1,12 @@
 {
-    "version": "16.0",
+    "version": "17.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 82.0,
-    "letzter_sha256": "b051c1532493563ca473b9fdaafd45a07783fe27e74c9ef0d2cf3bd4fbbab0e3",
+    "letzter_hardware_wert": 81.0,
+    "letzter_sha256": "912c147bde2232d1a30f9697a3a5a5e2999d59ecd50e9d599b5916a730cfc445",
     "letzter_sync_status": "SYNC OK @ Takt 2",
+    "ketten_status": "VALID",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 16 GEH\u00c4RTET AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785953799.559084
+    "system_status": "STUFE 17 INTEGRIT\u00c4T VERIFIZIERT [O-M-A]",
+    "letzte_aktualisierung": 1785953871.6033056
 }
