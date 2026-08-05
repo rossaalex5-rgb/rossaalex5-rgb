@@ -1,13 +1,14 @@
 {
-    "version": "22.0",
+    "version": "27.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 77.0,
-    "letzter_sha256": "7567c05b663f19058d938b51c2a264868a3f1becdc9b9a96df269c54e59db85a",
+    "letzter_hardware_wert": 74.0,
+    "letzte_temperatur": 34.2,
+    "letzter_sha256": "ba0dbaa45fa38947b36ab990acb8ae27ec4e185e9315a164bfb0c03348972beb",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 22 QUANTUM NEXUS AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785954584.2317607
+    "system_status": "STUFE 27 OMNI-NEURAL-MATRIX AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785955069.132781
 }
