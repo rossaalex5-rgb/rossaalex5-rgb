@@ -1,12 +1,12 @@
 {
     "version": "17.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 2,
+    "gesamte_takte": 5,
     "letzter_hardware_wert": 81.0,
-    "letzter_sha256": "912c147bde2232d1a30f9697a3a5a5e2999d59ecd50e9d599b5916a730cfc445",
-    "letzter_sync_status": "SYNC OK @ Takt 2",
+    "letzter_sha256": "2efeab823bc24e782f1a34af23217a4f151b93898c99a0fbf7d92287244ca0a2",
+    "letzter_sync_status": "SYNC OK @ Takt 5",
     "ketten_status": "VALID",
     "dashboard_url": "http://127.0.0.1:3447/",
     "system_status": "STUFE 17 INTEGRIT\u00c4T VERIFIZIERT [O-M-A]",
-    "letzte_aktualisierung": 1785953871.6033056
+    "letzte_aktualisierung": 1785953918.258686
 }
