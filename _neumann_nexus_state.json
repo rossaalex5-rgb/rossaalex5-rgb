@@ -1,14 +1,14 @@
 {
-    "version": "30.0",
+    "version": "34.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 72.0,
-    "letzte_temperatur": 35.0,
-    "letzter_sha256": "d099289a0eb029165d544959fba7fe55606453ce2c32edf775286c0ec18e9692",
+    "letzter_hardware_wert": 71.0,
+    "letzte_temperatur": 34.7,
+    "letzter_sha256": "de1fb0d73847f1ef12531760b2343e3649953f32d12e9e798dbb9507bc02b7a1",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 30 QUANTUM-SINGULARITY-MATRIX AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785955360.9337351
+    "system_status": "STUFE 34 VOID-SINGULARITY-MATRIX AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785955651.0746512
 }
