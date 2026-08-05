@@ -1,0 +1,4 @@
+{"status": "genesis_block_v18_stream", "takt": 3.47, "timestamp": 1785954040.559446}
+{"takt": 3.47, "takt_nummer": 1, "akku_prozent": 80.0, "akku_temperatur": 36.0, "payload": "Stream Nexus V18. Akku: 80.0% | Temp: 36.0\u00b0C", "sha256": "0ca90d73539885457808d7458f8b4081996bb5437d51c9015662777767b9c754", "timestamp": 1785954041.4642375}
+{"takt": 3.47, "takt_nummer": 2, "akku_prozent": 80.0, "akku_temperatur": 36.0, "payload": "Stream Nexus V18. Akku: 80.0% | Temp: 36.0\u00b0C", "sha256": "522c124471e1077ff6f4e4a2c40c3f21f3088956ff76dc360aa155bab5a1a04f", "timestamp": 1785954050.8065596}
+{"takt": 3.47, "takt_nummer": 3, "akku_prozent": 80.0, "akku_temperatur": 36.0, "payload": "Stream Nexus V18. Akku: 80.0% | Temp: 36.0\u00b0C", "sha256": "628cded3cb9bc6dae30a60bf455c4afe0a9af25461abe05a5579862770c9680b", "timestamp": 1785954059.5420997}

@@ -1,12 +1,12 @@
 {
-    "version": "17.0",
+    "version": "18.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 8,
-    "letzter_hardware_wert": 81.0,
-    "letzter_sha256": "c29e926167bd0ba8767d17a04e1a88b27f2ce21b237ca61f0b9d8da953d8c52a",
-    "letzter_sync_status": "SYNC OK @ Takt 8",
+    "gesamte_takte": 2,
+    "letzter_hardware_wert": 80.0,
+    "letzter_sha256": "522c124471e1077ff6f4e4a2c40c3f21f3088956ff76dc360aa155bab5a1a04f",
+    "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 17 INTEGRIT\u00c4T VERIFIZIERT [O-M-A]",
-    "letzte_aktualisierung": 1785953979.079507
+    "system_status": "STUFE 18 REALTIME STREAM AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1785954055.37751
 }
