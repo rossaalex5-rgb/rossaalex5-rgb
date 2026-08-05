@@ -1,13 +1,13 @@
 {
     "version": "19.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 5,
-    "letzter_hardware_wert": 79.0,
-    "letzter_sha256": "9dd320a75b89fe155ffea6c85121b3ec2d9b3bd11d76cc16700324e534374165",
-    "letzter_sync_status": "SYNC OK @ Takt 5",
+    "gesamte_takte": 8,
+    "letzter_hardware_wert": 78.0,
+    "letzter_sha256": "774586560595153932aa2538bf2e46561ca61c0f115220507acb9010e9e10f4a",
+    "letzter_sync_status": "SYNC OK @ Takt 8",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "dashboard_url": "http://127.0.0.1:3447/",
     "system_status": "STUFE 19 AUTONOMER SELBSTHEILUNGS-NEXUS AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785954270.3014803
+    "letzte_aktualisierung": 1785954298.4514148
 }
