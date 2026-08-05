@@ -1,11 +1,11 @@
 {
     "version": "15.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 6,
-    "letzter_hardware_wert": 84.0,
-    "letzter_sha256": "9972a33a715595bd9c2d2b95f8ab389c94ceaf6249aeea4295b993d90b656c59",
+    "gesamte_takte": 9,
+    "letzter_hardware_wert": 83.0,
+    "letzter_sha256": "5e04b68db230468915b4bb7d9317cecd58fb48ba413a999a83bf099ad4d5c02b",
     "nexus_faktor": 15.0,
     "dashboard_url": "http://127.0.0.1:3447/",
     "system_status": "STUFE 15 ALCHEMIE REINIGUNG AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1785953509.684791
+    "letzte_aktualisierung": 1785953577.860876
 }
