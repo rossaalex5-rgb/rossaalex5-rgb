@@ -1,16 +1,16 @@
 {
-    "version": "82.0",
+    "version": "86.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "matrix_index": 100.0,
-    "letzter_hardware_wert": 63.0,
-    "letzte_temperatur": 35.2,
-    "letzter_sha256": "8b14904678c7611a654a38bb0da3419756a27d9b0031df4abfbdce9e50e76aa9",
+    "letzter_hardware_wert": 61.0,
+    "letzte_temperatur": 35.7,
+    "letzter_sha256": "1ffd3657e45e0e7a98f2c095174c20b0c6a5ae2dd63cf8d9747f90740b69b71b",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 82 AETHER-CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786205621.7736533
+    "system_status": "STUFE 86 INFINITY-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786205797.377223
 }
