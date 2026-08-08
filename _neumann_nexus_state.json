@@ -1,16 +1,16 @@
 {
-    "version": "66.0",
+    "version": "67.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "matrix_index": 99.9,
     "letzter_hardware_wert": 70.0,
-    "letzte_temperatur": 34.9,
-    "letzter_sha256": "80832c222820a3a8c534b7bf43818812fa7bbb77d5014854d76ced60a4a2d10f",
+    "letzte_temperatur": 34.8,
+    "letzter_sha256": "bcccd3112d8f62841f91ff4f651ad45e4e4cbb2c8bd0e63f47cbf4c9de421d10",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 66 AETHER-CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786204431.039777
+    "system_status": "STUFE 67 RESONANZ-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786204482.1030052
 }
