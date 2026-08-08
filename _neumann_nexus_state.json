@@ -1,16 +1,16 @@
 {
-    "version": "81.0",
+    "version": "82.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "matrix_index": 100.0,
     "letzter_hardware_wert": 63.0,
     "letzte_temperatur": 35.2,
-    "letzter_sha256": "12541387c07785c3dac414ca1df0d3c676ec67d14902995256e827f5682df801",
+    "letzter_sha256": "8b14904678c7611a654a38bb0da3419756a27d9b0031df4abfbdce9e50e76aa9",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 81 APEX-CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786205564.922837
+    "system_status": "STUFE 82 AETHER-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786205621.7736533
 }
