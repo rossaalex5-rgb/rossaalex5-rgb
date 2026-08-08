@@ -1,16 +1,16 @@
 {
-    "version": "90.0",
+    "version": "95.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "matrix_index": 100.0,
-    "letzter_hardware_wert": 60.0,
-    "letzte_temperatur": 36.1,
-    "letzter_sha256": "a5b10a858848052268918f76eff5c4647adf60cea396c6965198c9cfa6669100",
+    "letzter_hardware_wert": 58.0,
+    "letzte_temperatur": 35.8,
+    "letzter_sha256": "911296c8465f6fa607ef8b717963f54d3da90c80f6ff5c5a69cc1d0a564d0264",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 90 RESONANCE-CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786205986.3044827
+    "system_status": "STUFE 95 QUANTUM-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786206225.9426634
 }
