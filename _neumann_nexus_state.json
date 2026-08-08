@@ -1,15 +1,16 @@
 {
-    "version": "53.0",
+    "version": "54.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "letzter_hardware_wert": 77.0,
-    "letzte_temperatur": 36.3,
-    "letzter_sha256": "08d5da58b663666878abe3d76a2f272b1ad7e234de6d607dd4ada4e9b272b898",
+    "resonanz_index": 95.2,
+    "letzter_hardware_wert": 76.0,
+    "letzte_temperatur": 35.5,
+    "letzter_sha256": "33c1d33f730499eb410c804a749282e4f0ba042c768297a1cb7e94414f80e93f",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 53 QUANTUM-INTELLIGENCE BRIDGE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786203648.3607018
+    "system_status": "STUFE 54 HYPER-RESONANCE CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786203699.087492
 }
