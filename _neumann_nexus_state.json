@@ -1,14 +1,15 @@
 {
-    "version": "50.0",
+    "version": "53.0",
     "takt_intervall": 3.47,
-    "gesamte_takte": 5,
-    "letzter_hardware_wert": 53.0,
-    "letzte_temperatur": 31.2,
-    "letzter_sha256": "c2c9a0e50e1745d5e590bcad9bbf6c27130abc9c17946454e05dd0e21af38882",
-    "letzter_sync_status": "SYNC OK @ Takt 5",
+    "gesamte_takte": 2,
+    "letzter_hardware_wert": 77.0,
+    "letzte_temperatur": 36.3,
+    "letzter_sha256": "08d5da58b663666878abe3d76a2f272b1ad7e234de6d607dd4ada4e9b272b898",
+    "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
+    "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 50 ULTIMATE-SINGULARITY-MATRIX AKTIV [50% MEILENSTEIN - O-M-A]",
-    "letzte_aktualisierung": 1785961840.1484187
+    "system_status": "STUFE 53 QUANTUM-INTELLIGENCE BRIDGE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786203648.3607018
 }
