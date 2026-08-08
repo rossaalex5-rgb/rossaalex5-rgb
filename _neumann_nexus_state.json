@@ -1,16 +1,16 @@
 {
-    "version": "54.0",
+    "version": "55.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "resonanz_index": 95.2,
-    "letzter_hardware_wert": 76.0,
-    "letzte_temperatur": 35.5,
-    "letzter_sha256": "33c1d33f730499eb410c804a749282e4f0ba042c768297a1cb7e94414f80e93f",
+    "matrix_index": 95.2,
+    "letzter_hardware_wert": 75.0,
+    "letzte_temperatur": 36.0,
+    "letzter_sha256": "da6911d5fe28b13ef110f3662c96d8bfa4d645c39d028d099005f631a33c1cbf",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 54 HYPER-RESONANCE CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786203699.087492
+    "system_status": "STUFE 55 OMNISCIENCE MATRIX AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786203761.0107687
 }
