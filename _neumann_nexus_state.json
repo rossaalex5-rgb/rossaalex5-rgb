@@ -1,16 +1,16 @@
 {
-    "version": "95.0",
+    "version": "96.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
     "matrix_index": 100.0,
     "letzter_hardware_wert": 58.0,
-    "letzte_temperatur": 35.8,
-    "letzter_sha256": "911296c8465f6fa607ef8b717963f54d3da90c80f6ff5c5a69cc1d0a564d0264",
+    "letzte_temperatur": 35.6,
+    "letzter_sha256": "d6858ba4025e418305288d32d28eeb65d6bf38dd59befd9826b3094779644b05",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 95 QUANTUM-CORE AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786206225.9426634
+    "system_status": "STUFE 96 SINGULARITY-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786206290.4972858
 }
