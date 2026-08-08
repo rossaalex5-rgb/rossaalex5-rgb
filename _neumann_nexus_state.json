@@ -1,16 +1,16 @@
 {
-    "version": "55.0",
+    "version": "66.0",
     "takt_intervall": 3.47,
     "gesamte_takte": 2,
-    "matrix_index": 95.2,
-    "letzter_hardware_wert": 75.0,
-    "letzte_temperatur": 36.0,
-    "letzter_sha256": "da6911d5fe28b13ef110f3662c96d8bfa4d645c39d028d099005f631a33c1cbf",
+    "matrix_index": 99.9,
+    "letzter_hardware_wert": 70.0,
+    "letzte_temperatur": 34.9,
+    "letzter_sha256": "80832c222820a3a8c534b7bf43818812fa7bbb77d5014854d76ced60a4a2d10f",
     "letzter_sync_status": "SYNC OK @ Takt 2",
     "ketten_status": "VALID",
     "letztes_marie_signal": "Aktiv",
     "llama_status": "STANDBY (Port 16500)",
     "dashboard_url": "http://127.0.0.1:3447/",
-    "system_status": "STUFE 55 OMNISCIENCE MATRIX AKTIV [O-M-A]",
-    "letzte_aktualisierung": 1786203761.0107687
+    "system_status": "STUFE 66 AETHER-CORE AKTIV [O-M-A]",
+    "letzte_aktualisierung": 1786204431.039777
 }
