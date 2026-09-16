@@ -43,3 +43,23 @@ Jedes zukünftige visuelle Asset (egal ob von ChatGPT, Meta AI oder internen Pip
 - **Konzept:** Intuitives Bio-Feedback statt nerviger Big-Tech-Tabellen.
 - **Struktur:** Links sterile App-Pop-ups vs. Rechts animierter, wachsender Baum (lokales Edge-Feedback).
 - **Compliance:** 100% EU AI Act konform, keine Cloud-Telemetrie.
+
+## Modul D: Wunddokumentation & Mess-Render
+- **Konzept:** Abstraktes Diagramm-Poster ohne reales Wundbild (vollkommene Wahrung der Intimsphäre & Filter-Souveränität).
+- **Struktur:** Links US-Cloud-Foto-Upload vs. Rechts neutrales 3D-Mess-Render (3,2 cm, Tiefe in mm, Ledger versiegelt).
+
+## Modul E: Trinkprotokoll & Der wachsende Baum (Demenz-Assistenz)
+- **Konzept:** Intuitives Bio-Feedback statt nerviger Big-Tech-Tabellen und Cloud-Pop-ups.
+- **Struktur:** Links Excel-Fehler-Wüste vs. Rechts blühender Baum mit Wassertropfen (lokales Edge-Feedback).
+
+## Modul F: Sturzprävention Bad (Anonymes Skelett-Tracking)
+- **Konzept:** Bad-Sicherheit ohne intrusive Kameras oder Verletzung der Intimsphäre.
+- **Struktur:** Links US-Cloud-Kamera im Bad vs. Rechts lokales 3D-Skelett-Gitter mit Haltegriff-Check.
+
+## Modul G: Ernährungs-Log & Minetest-Pfad
+- **Konzept:** Lokale Essens-Übersicht gekoppelt an dezentrale Raumnavigation ohne Kalorien-Shaming.
+- **Struktur:** Links Cloud-Kalorien-Tracker vs. Rechts lokales Teller-Log & dezentraler Minetest/Luanti-Pfad.
+
+## Modul H: Mobilität Pfad & Tour-Optimierung
+- **Konzept:** Ambulante Routenplanung und Navigation ohne Standort-Tracking oder US-Cloud-Telemetrie.
+- **Struktur:** Links Google/Apple Bewegungsprofil-Überwachung vs. Rechts lokale Vektor-Tour & Ledger-Siegel.
