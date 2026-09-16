@@ -43,3 +43,13 @@ Jedes zukünftige visuelle Asset (egal ob von ChatGPT, Meta AI oder internen Pip
 - **Konzept:** Intuitives Bio-Feedback statt nerviger Big-Tech-Tabellen.
 - **Struktur:** Links sterile App-Pop-ups vs. Rechts animierter, wachsender Baum (lokales Edge-Feedback).
 - **Compliance:** 100% EU AI Act konform, keine Cloud-Telemetrie.
+
+## Modul E: Trinkprotokoll & Der wachsende Baum (Demenz-Assistenz)
+- **Konzept:** Intuitives Bio-Feedback statt nerviger Big-Tech-Tabellen.
+- **Struktur:** Links sterile App-Pop-ups & Excel-Fehler vs. Rechts animierter, blühender Baum mit Wassertropfen.
+- **Compliance:** 100% EU AI Act konform, lokales Edge-Feedback ohne Cloud-Ping.
+
+## Modul F: Sturzprävention Bad (Anonymes Skelett-Tracking)
+- **Konzept:** Bad-Sicherheit absolut ohne intrusive Kameras oder Verletzung der Intimsphäre.
+- **Struktur:** Links US-Cloud-Kamera im Bad vs. Rechts lokales 3D-Skelett-Gitter (Vektor-Matrix, keine Gesichter/Haut, reine Gelenkpunkte).
+- **Architektur:** Observer-Layer (`READ → VERIFY → RENDER`) + Constitutional Gate (Ledger versiegelt).
